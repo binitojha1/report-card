@@ -1,1 +1,2 @@
 Marks of Shyam
+Maths marks = 67
