@@ -1,2 +1,3 @@
 Marks of Ram
 Maths marks = 77
+Science = 62
